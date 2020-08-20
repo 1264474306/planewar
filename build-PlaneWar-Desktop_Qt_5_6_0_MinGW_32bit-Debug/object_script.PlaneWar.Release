@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainscene.o
+./release\map.o
+./release\heroplane.o
+./release\bullet.o
+./release\enemyplane.o
+./release\bomb.o
+./release\bomb.o
+./release\bullet.o
+./release\enemyplane.o
+./release\heroplane.o
+./release\map.o
+./release\moc_mainscene.o
+);

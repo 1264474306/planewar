@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainscene.o
+./debug\map.o
+./debug\heroplane.o
+./debug\bullet.o
+./debug\enemyplane.o
+./debug\bomb.o
+./debug\bomb.o
+./debug\bullet.o
+./debug\enemyplane.o
+./debug\heroplane.o
+./debug\map.o
+./debug\moc_mainscene.o
+);
